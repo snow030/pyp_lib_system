@@ -10,7 +10,7 @@ ONLINE editor :
 3. go to **codespace**, and create one
 
 Desktop editor:
-1. Download Github Desktop
+1. [Download](https://desktop.github.com/download/) Github Desktop
 2. Sign in
 3. Clone Repository `Ctrl+Shift+O` > URL > Type in `snow030/pyp_lib_system`
-4. and now you can edit on VScode
+4. and now you can edit in VScode
